@@ -21,4 +21,9 @@ public class JavaAppUwU {
     public static void imprimirHolaMon() {
         System.out.println("Hola mon!");
     }
+    
+    public static void imprimirAltreCosa(){
+        System.out.println("Brian genio");
+    }
+
 }
