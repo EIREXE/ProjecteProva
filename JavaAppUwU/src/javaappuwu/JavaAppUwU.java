@@ -15,7 +15,10 @@ public class JavaAppUwU {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("uwu");
+        imprimirHolaMon();
+        imprimirAltreCosa();
     }
-    
+    public static void imprimirHolaMon() {
+        System.out.println("Hola mon!");
+    }
 }
